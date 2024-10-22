@@ -19,7 +19,7 @@ This project is a voice-based personal assistant built using Flask, the Gemini A
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-project.git
+git clone [https://github.com/your-username/your-project.git](https://github.com/datageekrj/Personal-Voice-Assistant.git)
 cd your-project
 ```
 
