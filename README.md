@@ -2,6 +2,8 @@
 
 This project is a voice-based personal assistant built using Flask, the Gemini API for generating AI-based responses, and ElevenLabs for generating voice output. The assistant listens to the user's speech, processes the input, and responds with both text and voice. It's designed as a professional portfolio project, demonstrating chatbot development with voice interaction.
 
+Video Demo: https://youtu.be/T6_-aqqt52o
+
 ## Features
 - **Voice Recognition**: Uses the browser's SpeechRecognition API (or Webkit for Chrome) to capture voice input.
 - **AI-Powered Responses**: The chatbot is powered by Google Generative AI’s Gemini model to generate dynamic, contextual responses.
@@ -91,7 +93,7 @@ To use a different voice for the assistant, simply change the `voice` parameter 
 The conversation history is maintained to keep context between exchanges. If you'd like to reset the history at any point, you can modify the backend logic in `app.py` accordingly.
 
 ## Demo Video
-Include a link to a demonstration video of the project on your [YouTube channel](https://youtube.com/yourchannel) showcasing the chatbot in action.
+Include a link to a demonstration video of the project on your [[YouTube channel]()](https://youtu.be/T6_-aqqt52o) showcasing the chatbot in action.
 
 ## Deployment
 If you'd like to deploy this project to a cloud platform (e.g., Heroku, AWS, etc.), you may need to make the following modifications:
